@@ -18,7 +18,7 @@ Clone the repository and install dependencies:
 
 ```sh
 git clone https://github.com/Rishab-Garje/Jumper-AI-Deep-Reinforcement-Learning-with-Pygame-PyTorch.git
-cd Jumper-AI-Deep-Reinforcement-Learning-with-Pygame-PyTorch.
+cd Jumper-AI-Deep-Reinforcement-Learning-with-Pygame-PyTorch
 pip install -r requirements.txt
 
 ```
